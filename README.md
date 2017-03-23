@@ -1,6 +1,4 @@
 # hello-world
 
-Maia here.new to programming.
+Maia here.Totally new to programming.
 BTW,not good in English.
-
-my first repository
